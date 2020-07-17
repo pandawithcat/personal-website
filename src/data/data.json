@@ -1,0 +1,48 @@
+{
+  "comment": "configure below strings suited for your needs",
+  "indexProp": {
+    "welcome": "Welcome! I'm a senior at Duke Univeristy, looking for opportunities in Software Development and Machine Learning! Click below for more details about me ",
+    "name": "Donghun \"Louis\" Lee",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "image": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "image": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "image": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/pandawithcat",
+        "image": "fa fa-github"
+      }
+    ]
+  },
+  "cardProps": [
+    {
+      "title": "Career",
+      "description": "Below is my resume. \n As 'code speaks for itself' , click the github link to view my projects",
+      "type": "career",
+      "career": {
+        "introduction": "wtf",
+        "github": "github",
+        "linkedIn": "linkedIn",
+        "email": "pandawithcat@gmail.com"
+      }
+    },
+    {
+      "title": "Hobby",
+      "description": "",
+      "type": "hobby",
+      "hobby": {}
+    }
+  ]
+}
