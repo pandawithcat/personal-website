@@ -1,7 +1,8 @@
 {
-  "name": "personal_website_template",
-  "homepage": "http://pandawithcat.github.io/personal_website",
+  "name": "personal-website",
+  "homepage": "http://pandawithcat.github.io/personal-website",
   "version": "0.1.0",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -31,8 +32,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "yarn start",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
