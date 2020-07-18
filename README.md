@@ -1,3 +1,4 @@
-# personal-website
+# Personal website
 Simple personal_website for myself using react + typescript + bootstrap
-[Link](https://pandawithcat.github.io/personal-website/#/)
+
+### [Click to view](https://pandawithcat.github.io/personal-website/#/)
