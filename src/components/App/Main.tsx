@@ -1,6 +1,6 @@
 import React from 'react';
-import Cards from './Cards';
 import AllDataProp, { IndexProp } from '../../data/dataTypes';
+import resume from '../../Documents/resume.pdf';
 
 function Main({ allData }) {
   const homeData: IndexProp = (allData as AllDataProp).indexProp;
@@ -21,7 +21,10 @@ function Main({ allData }) {
             <h1 className="responsive-headline">{homeData.name}.</h1>
             <h3>{homeData.welcome}</h3>
           </div>
-          <Cards cardsData={allData.cardProps}></Cards>
+
+          <form action={resume} className="resume">
+            <input type="submit" value="Resume" />
+          </form>
           <ul className="social">{networks}</ul>
         </div>
       </header>

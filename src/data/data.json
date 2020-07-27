@@ -1,28 +1,28 @@
 {
   "comment": "configure below strings suited for your needs",
   "indexProp": {
-    "welcome": "Welcome! I'm a senior at Duke Univeristy, looking for opportunities in Software Development and Machine Learning! Click below for more details about me ",
+    "welcome": "Welcome! I'm a senior at Duke Univeristy, looking for opportunities in Software Development and Machine Learning! Click below for more details about me!",
     "name": "Donghun \"Louis\" Lee",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com",
+        "url": "https://www.facebook.com/donghoon.lee.56/",
         "image": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "image": "fa fa-twitter"
-      },
-      {
         "name": "instagram",
-        "url": "http://instagram.com",
+        "url": "https://www.instagram.com/louis_dh_lee/",
         "image": "fa fa-instagram"
       },
       {
         "name": "github",
         "url": "http://github.com/pandawithcat",
         "image": "fa fa-github"
+      },
+      {
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/donghun-louis-lee-a62b46157/",
+        "image": "fa fa-linkedin"
       }
     ]
   },
